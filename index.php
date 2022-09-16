@@ -1,3 +1,3 @@
 <?php
-Header('Pelase Add this link to V2rayNG');
+Header("Pelase Add this link to V2rayNG");
 ?>
